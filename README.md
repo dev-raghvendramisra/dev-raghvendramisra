@@ -29,8 +29,8 @@
 [![website](linkedin-light.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-light-mode-only)
 [![website](linkedin-dark.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
-[![website](instagram-dark.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
+[![website](instagram-light.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](mail-light.svg)](mailto:itsraghav12@gmail.com#gh-light-mode-only)
 [![website](mail-dark.svg)](mailto:itsraghav12@gmail.com#gh-dark-mode-only)
