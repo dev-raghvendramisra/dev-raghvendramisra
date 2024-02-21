@@ -1,20 +1,75 @@
-# 💫 About Me:
-# Hy, I am Raghvendra
-a tech enthusiast, aspiring full-stack developer, and avid music lover. From my beginnings as a UI/UX designer, I've delved deeper into the world of development, driven by a passion for crafting seamless digital experiences. When I'm not immersed in code, you'll often find me exploring new melodies on my guitar or discovering fresh beats to fuel my creativity. Join me as I navigate the intersection of technology and art, constantly seeking new ways to innovate and inspire.<br><br><h4>🔭 I’m currently working on Spotify Clone<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 I like to talk about JS ecosystem<br><h4>
-
-## 🌐 Socials:
+<body style="background-color:black;">
 
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/xeno_dz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xeno.dz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvendra-misra-424803262) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raghvendra_001) 
-
-# 💻 Tech Stack:
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
+<h1 align="center">Hi there 👋 I am Raghvendra Misra </h1>
+ 
 
 
-![](https://github-readme-stats.vercel.app/api?username=dev-raghvendramisra]&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-raghvendramisra]&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raghvendramisra]&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align = 'center'><b>A tech enthusiast, aspiring full-stack developer, and avid music lover. From my beginnings as a UI/UX designer, I've delved deeper into the world of development, driven by a passion for crafting seamless digital experiences. When I'm not immersed in code, you'll often find me exploring new melodies on my guitar or discovering fresh beats to fuel my creativity. Join me as I navigate the intersection of technology and art, constantly seeking new ways to innovate and inspire.</b></p> <br>
 
+
+ 
+:nerd_face: Currently Improving **Frontend Skills** & learning **MERN Stack** <br>
+:snowflake: BCA from **JCASH** <br>
+🚀 Make Projects in my free time <br>
+:muscle: Raising my bars with **UX Skils** & **Dev Affection** <br>
+:heart: Coffee <br>
+🎶 Music   
+ 
+ 
+ <br />
+ 
+ 
+  ### Connect with me:
+
+
+[![website](./icons/twitter-light.svg)](https://twitter.com/raghvendra_001#gh-light-mode-only)
+[![website](./icons/twitter-dark.svg)](https://twitter.com/raghvendra_001#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/linkedin-light.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-light-mode-only)
+[![website](./icons/linkedin-dark.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/instagram-light.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
+[![website](./icons/instagram-dark.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./icons/mail-light.svg)](mailto:itsraghav12@gmail.com#gh-light-mode-only)
+[![website](./icons/mail-dark.svg)](mailto:itsraghav12@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+ 
+ 
+ <br />
+ 
+  
+ ### Languages and Tools
+ 
+<p align="left">
+  
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
+<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
+ <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
+[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only) 
+[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only) &nbsp;&nbsp;
+[<img alt="Terminal" width="26px" src="./icons/terminal-light.svg" />](./icons/terminal-light.svg#gh-light-mode-only)
+[<img alt="Terminal" width="26px" src="./icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only) &nbsp;&nbsp;
+ 
+ 
+ </p>
+<br />
+ 
+
+
+ 
+
+
+<div align = "center">
+ 
+
+
+### Show some ❤️ by starring some of the repositories!
+</div>
+ 
+ </body>
