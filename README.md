@@ -23,17 +23,17 @@
   ### Connect with me:
 
 
-[![website](./icons/twitter-light.svg)](https://twitter.com/raghvendra_001#gh-light-mode-only)
-[![website](./icons/twitter-dark.svg)](https://twitter.com/raghvendra_001#gh-dark-mode-only)
+[![website](twitter-light.svg)](https://twitter.com/raghvendra_001#gh-light-mode-only)
+[![website](twitter-dark.svg)](https://twitter.com/raghvendra_001#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./icons/linkedin-light.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-light-mode-only)
-[![website](./icons/linkedin-dark.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./icons/instagram-light.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
-[![website](./icons/instagram-dark.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
+[![website](instagram-light.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./icons/mail-light.svg)](mailto:itsraghav12@gmail.com#gh-light-mode-only)
-[![website](./icons/mail-dark.svg)](mailto:itsraghav12@gmail.com#gh-dark-mode-only)
+[![website](mail-light.svg)](mailto:itsraghav12@gmail.com#gh-light-mode-only)
+[![website](mail-dark.svg)](mailto:itsraghav12@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
  
