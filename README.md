@@ -11,7 +11,7 @@
  
 :nerd_face: Currently Improving **Frontend Skills** & learning **MERN Stack** <br>
 :snowflake: Persuing BCA from **JCASH** <br>
-🚀 Make Projects in my free time <br>
+🚀 Making Projects in my free time <br>
 :muscle: Raising my bars with **UX Skils** & **Dev Affection** <br>
 :heart: Coffee <br>
 🎶 Music   
