@@ -23,17 +23,17 @@
   ### Connect with me:
 
 
-[![website](twitter-light.svg)](https://twitter.com/raghvendra_001#gh-light-mode-only)
-[![website](twitter-dark.svg)](https://twitter.com/raghvendra_001#gh-dark-mode-only)
+[![website](icons/twitter-light.svg)](https://twitter.com/raghvendra_001#gh-light-mode-only)
+[![website](icons/twitter-dark.svg)](https://twitter.com/raghvendra_001#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](linkedin-light.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-dark-mode-only)
+[![website](icons/linkedin-light.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-light-mode-only)
+[![website](icons/linkedin-dark.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
-[![website](instagram-dark.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
+[![website](icons/instagram-light.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
+[![website](icons/instagram-dark.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](mail-light.svg)](mailto:itsraghav12@gmail.com#gh-light-mode-only)
-[![website](mail-dark.svg)](mailto:itsraghav12@gmail.com#gh-dark-mode-only)
+[![website](icons/mail-light.svg)](mailto:itsraghav12@gmail.com#gh-light-mode-only)
+[![website](icons/mail-dark.svg)](mailto:itsraghav12@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
  
@@ -53,8 +53,8 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
 [<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only) 
 [<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only) &nbsp;&nbsp;
-[<img alt="Terminal" width="26px" src="terminal-light.svg" />](./icons/terminal-light.svg#gh-light-mode-only)
-[<img alt="Terminal" width="26px" src="terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only) &nbsp;&nbsp;
+[<img alt="Terminal" width="26px" src="icons/terminal-light.svg" />](./icons/terminal-light.svg#gh-light-mode-only)
+[<img alt="Terminal" width="26px" src="icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only) &nbsp;&nbsp;
  
  
  </p>
