@@ -58,8 +58,8 @@
 [<img alt="Terminal" width="26px" src="icons/terminal-light.svg" />](./icons/terminal-light.svg#gh-light-mode-only)
 [<img alt="Terminal" width="26px" src="icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only) 
 &nbsp;&nbsp;
-[<img alt="linux" width="26px" src="icons/linux.png" />](./icons/tlinux) &nbsp;&nbsp;
-[<img alt="figma" width="26px" src="icons/figma.png" />](./icons/figma)
+[<img alt="linux" width="24px" src="icons/linux.png" />](./icons/tlinux) &nbsp;&nbsp;
+[<img alt="figma" width="28px" src="icons/figma.png" />](./icons/figma)
 &nbsp;&nbsp;
  
  
