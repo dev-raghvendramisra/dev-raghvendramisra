@@ -59,6 +59,8 @@
 [<img alt="Terminal" width="26px" src="icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only) 
 &nbsp;&nbsp;
 [<img alt="linux" width="26px" src="icons/linux.png" />](./icons/tlinux) &nbsp;&nbsp;
+[<img alt="figma" width="26px" src="icons/figma.png" />](./icons/figma)
+&nbsp;&nbsp;
  
  
  </p>
