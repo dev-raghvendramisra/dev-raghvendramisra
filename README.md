@@ -61,7 +61,7 @@
 [<img alt="linux" width="24px" src="icons/linux.png" />](./icons/tlinux) &nbsp;&nbsp;
 [<img alt="figma" width="28px" src="icons/figma.png" />](./icons/figma)
 &nbsp;&nbsp;
-[<img alt="figma" width="28px" src="icons/tailwind.png" />](./icons/tailwind)
+[<img alt="figma" width="35px" margin-bottom="20px" src="icons/tailwind.png" />](./icons/tailwind)
 
  </p>
 <br />
