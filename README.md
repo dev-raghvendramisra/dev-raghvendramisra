@@ -62,7 +62,8 @@
 [<img alt="figma" width="28px" src="icons/figma.png" />](./icons/figma)
 &nbsp;&nbsp;
 [<img alt="figma" width="35px" margin-bottom="20px" src="icons/tailwind.png" />](./icons/tailwind)
-
+&nbsp; &nbsp;
+[<img alt="figma" width="35px" margin-bottom="20px" src="icons/react.png" />](./icons/react)
  </p>
 <br />
  
