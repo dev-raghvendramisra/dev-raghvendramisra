@@ -1,82 +1,24 @@
-<body style="background-color:black;">
+# 💫 About Me:
+🤓 Currently Studying MERN Stack<br>❄️ Persuing BCA from JCASH<br>🚀 Making Projects in my free time<br>💪 Raising my bars with UX Skils & Dev Affection<br>❤️ Tea<br>🎶 Music
 
 
-<h1 align="center">Hi there 👋 I am Raghvendra Misra </h1>
- 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__raghvendra__001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvendra-misra2178a6293) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Raghvendra_001) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dev-raghvendramisra&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-raghvendramisra&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raghvendramisra&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align = 'center'><b>A tech enthusiast, aspiring full-stack developer, and avid music lover. From my beginnings as a UI/UX designer, I've delved deeper into the world of development, driven by a passion for crafting seamless digital experiences. When I'm not immersed in code, you'll often find me exploring new melodies on my guitar or discovering fresh beats to fuel my creativity. Join me as I navigate the intersection of technology and art, constantly seeking new ways to innovate and inspire.</b></p> <br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev-raghvendramisra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
- 
-:nerd_face: Currently Improving **Frontend Skills** & learning **MERN Stack** <br>
-:snowflake: Persuing BCA from **JCASH** <br>
-🚀 Making Projects in my free time <br>
-:muscle: Raising my bars with **UX Skils** & **Dev Affection** <br>
-:heart: Coffee <br>
-🎶 Music   
- 
- 
- <br />
- 
- 
-  ### Connect with me:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dev-raghvendramisra&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-
-[![website](icons/twitter-light.svg)](https://twitter.com/raghvendra_001#gh-light-mode-only)
-[![website](icons/twitter-dark.svg)](https://twitter.com/raghvendra_001#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](icons/linkedin-light.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-light-mode-only)
-[![website](icons/linkedin-dark.svg)](https://linkedin.com/in/raghvendra-misra-424803262#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](icons/instagram-light.svg)](https://instagram.com/xeno.dz#gh-light-mode-only)
-[![website](icons/instagram-dark.svg)](https://instagram.com/xeno.dz#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](icons/mail-light.svg)](mailto:itsraghav12@gmail.com#gh-light-mode-only)
-[![website](icons/mail-dark.svg)](mailto:itsraghav12@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-
- 
- 
- <br />
- 
-  
- ### Languages and Tools
- 
-<p align="left">
-  
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
-<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
- <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26px" style="padding-right:10px;padding-top:10px;" /> &nbsp;&nbsp;
-[<img alt="Java" width="29px" src="icons/java.png" />](./icons/java)
-&nbsp;&nbsp;
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only) 
-[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only) &nbsp;&nbsp;
-[<img alt="Terminal" width="26px" src="icons/terminal-light.svg" />](./icons/terminal-light.svg#gh-light-mode-only)
-[<img alt="Terminal" width="26px" src="icons/terminal-dark.svg" />](./icons/terminal-dark.svg#gh-dark-mode-only) 
-&nbsp;&nbsp;
-[<img alt="linux" width="24px" src="icons/linux.png" />](./icons/tlinux) &nbsp;&nbsp;
-[<img alt="figma" width="28px" src="icons/figma.png" />](./icons/figma)
-&nbsp;&nbsp;
-[<img alt="figma" width="35px" margin-bottom="20px" src="icons/tailwind.png" />](./icons/tailwind)
-&nbsp; &nbsp;
-[<img alt="figma" width="35px" margin-top="500px" src="icons/react.png" />](./icons/react)
- </p>
-<br />
- 
-
-
- 
-
-
-<div align = "center">
- 
-
-
-### Show some ❤️ by starring some of the repositories!
-</div>
- 
- </body>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
