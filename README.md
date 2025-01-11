@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Currently Studying MERN Stack<br>❄️ Persuing BCA from JCASH<br>🚀 Making Projects in my free time<br>💪 Raising my bars with UX Skils & Dev Affection<br>❤️ Tea<br>🎶 Music
+🤓 Currently Studying MERN Stack<br>❄️ Persuing BCA from JCASH<br> 🔥 Love Backend and Decops <br>🚀 Making Projects in my free time<br>💪 Raising my bars with UX Skils & Dev Affection<br>❤️ Tea<br>🎶 Music
 
 
 ##  Socials:
@@ -16,3 +16,4 @@
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-raghvendramisra&theme=react&hide_border=true)<br/>
+``
