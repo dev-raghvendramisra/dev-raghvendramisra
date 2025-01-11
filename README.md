@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Currently Studying MERN Stack<br>❄️ Persuing BCA from JCASH<br> 🔥 Love Backend and Decops <br>🚀 Making Projects in my free time<br>💪 Raising my bars with UX Skils & Dev Affection<br>❤️ Tea<br>🎶 Music
+🤓 Currently Studying MERN Stack<br>❄️ Persuing BCA from JCASH<br> 🔥 Love Backend and Devops <br>🚀 Making Projects in my free time<br>💪 Raising my bars with UX Skils & Dev Affection<br>❤️ Tea<br>🎶 Music
 
 
 ##  Socials:
