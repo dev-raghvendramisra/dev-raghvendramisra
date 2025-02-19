@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python&perline=5)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,redux,babel,figma,git,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,redux,babel,figma,git,github)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,appwrite,aws,gcp,docker,nginx,linux&perline=8)](https://skillicons.dev)
 
